@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Renz De la Torre</h1>
+<h1 align="center">Hi 👋, I'm Renz</h1>
 <h3 align="center">Full-stack developer skilled in Python, PHP, JavaScript, HTML, and CSS, experienced in building responsive, data-driven web applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renz00" alt="renz00" /></a> </p>
